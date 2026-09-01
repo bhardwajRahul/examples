@@ -1,0 +1,5 @@
+# Example seeds file — one URL per line. Lines starting with '#' are ignored.
+#
+# Use real URLs only when you have permission to crawl them. For testing,
+# run a tiny local server (see tests/e2e/spider_test.py for an example).
+https://example.com/index.html
